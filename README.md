@@ -49,10 +49,7 @@ This repository is licensed under the [GNU General Public License (GPL)](https:/
 
 ## Contact
 
-- Email: [...] or [...]
+- Email: [andrea.longoni3@studenti.unimi.it]
 
 - Email: [federico.bruzzone.i@gmail.com] or [federico.bruzzone@studenti.unimi.it]
-
-- Email: [...] or [...]
-
 
